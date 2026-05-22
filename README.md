@@ -1,1 +1,1 @@
-I think solving cp problems is great, but i liked to read more about some algorithms,methods to solve problems rather than solving actual problems.I think i lagged a bit in week 3 ,since there are many problems in that week to solve and so much to read.
+Problems i solved on various platforms as part of the Seasons Of Code 2024-25:Mastering CP
